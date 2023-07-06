@@ -1,0 +1,56 @@
+\thispagestyle {frontmatterstyle}
+\contentsline {chapter}{中文摘要}{I}{section*.1}%
+\contentsline {chapter}{英文摘要}{III}{section*.2}%
+\contentsline {chapter}{\numberline {1.\hspace {.3em}}模板介绍与注意事项}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}模板说明}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}下载安装}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}目录内容}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}参考文献生成方法}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}编译注意事项}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}系统要求}{3}{section.1.6}%
+\contentsline {section}{\numberline {1.7}\TeX \nobreakspace {}简介}{3}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}什么是 \TeX /\LaTeX \nobreakspace {}，我是否应该选择它？}{3}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}我该用什么编辑器？}{4}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}我应该看什么\LaTeX \nobreakspace {}读物？}{4}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}什么知识会过时？什么不会？}{5}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}免责声明}{6}{section.1.8}%
+\contentsline {chapter}{\numberline {2.\hspace {.3em}}图片的插入方法}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}研究生毕业论文的插图规范}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}图题及图中说明}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}插图编排}{7}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}\LaTeX \nobreakspace {}中推荐使用的图片格式}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}单张图片的插入方法}{8}{section.2.3}%
+\contentsline {section}{\numberline {2.4}具有子图的图片插入方法}{10}{section.2.4}%
+\contentsline {chapter}{\numberline {3.\hspace {.3em}}表格的绘制方法}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}研究生毕业设计论文的绘表规范}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}普通表格的绘制方法}{13}{section.3.2}%
+\contentsline {section}{\numberline {3.3}长表格的绘制方法}{14}{section.3.3}%
+\contentsline {section}{\numberline {3.4}列宽可调表格的绘制方法}{17}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}表格内某单元格内容过长的情况}{17}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}对物理量符号进行注释的情况}{18}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4.\hspace {.3em}}数学公式的输入方法}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}研究生毕业设计论文的公式规范}{21}{section.4.1}%
+\contentsline {section}{\numberline {4.2}生成\LaTeX \nobreakspace {}数学公式的两种方法}{21}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}基于MathType软件的数学公式生成方法}{22}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}基于MATLAB软件的数学公式生成方法}{22}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}数学字体}{23}{section.4.3}%
+\contentsline {section}{\numberline {4.4}行内公式}{24}{section.4.4}%
+\contentsline {section}{\numberline {4.5}行间公式}{25}{section.4.5}%
+\contentsline {section}{\numberline {4.6}可自动调整大小的定界符}{25}{section.4.6}%
+\contentsline {section}{\numberline {4.7}数学重音符号}{26}{section.4.7}%
+\contentsline {chapter}{\numberline {5.\hspace {.3em}}简要版帮助}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}模板文件结构}{27}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}文献引用}{28}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}伪代码实现}{28}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}代码展示}{28}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}依赖}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.3}基本设置}{29}{section.5.3}%
+\contentsline {section}{\numberline {5.4}文字命令}{29}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}常用命令}{29}{subsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.1}字体}{29}{subsubsection.5.4.1.1}%
+\contentsline {subsubsection}{\numberline {5.4.1.2}字号}{30}{subsubsection.5.4.1.2}%
+\contentsline {chapter}{结论}{31}{subsubsection.5.4.1.2}%
+\contentsline {chapter}{致谢}{33}{chapter*.14}%
+\contentsline {chapter}{参考文献}{33}{chapter*.14}%
+\contentsline {chapter}{附录A\nobreakspace {}\nobreakspace {}攻读硕士学位期间发表论文及科研工作情况}{34}{chapter*.15}%
+\contentsline {chapter}{附录B\nobreakspace {}\nobreakspace {}本论文相关源代码}{36}{equation.5.4.1}%
